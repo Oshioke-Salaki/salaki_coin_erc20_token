@@ -1,0 +1,1 @@
+mod salaki_coin;
